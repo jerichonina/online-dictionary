@@ -1,0 +1,10 @@
+.Dictionary {
+text-align: center;
+}
+
+.Dictionary h1{
+text-align: center;
+font-size: 25px;
+font-family: monospace;
+margin:30px 0;
+}
