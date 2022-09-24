@@ -31,6 +31,7 @@ export default function Dictionary() {
       <form onSubmit={search}>
         <input typ="search" onChange={processKeywordChange} />
       </form>
+      <br />
       <Results results={results} />
     </div>
   );
