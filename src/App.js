@@ -13,7 +13,7 @@ export default function App() {
           <Dictionary defaultKeyword="serendipity" />
         </main>
         <footer className="App-footer">
-          <small>coded by Jericho Li</small>
+          <small>Coded by Jericho Li 👩🏻‍💻 </small>
         </footer>
       </div>
     </div>

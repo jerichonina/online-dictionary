@@ -1,23 +1,31 @@
 .Dictionary section{
 background-color: white;
-max-width: 500px;
+max-width: 600px;
 text-align: left;
-padding:20px;
+padding:6px 12px;
 border-radius: 6px;
-box-shadow: 0px 2px 3px rgba(0,0,0,6);
-margin:20px auto;
+box-shadow: 0.5px 1.5px 2px rgba(0,0,0,6);
+margin:15px auto;
 }
 
 .Dictionary h1{
-text-align: center;
-font-size: 25px;
+color:rgb(72, 67, 67);
+text-align: left;
+font-weight: 600;
+font-size: 22px;
 font-family:cursive;
-margin:10px 0;
+letter-spacing: 0.1em;
+padding:2px;
 }
 
 .Dictionary input {
     width: 100%;
-    padding:4px 6px;
+    font-size: 16px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding:2px 6px;
     border:1.5px solid rgb(222, 219, 219);
-    color:dimgray
+    border-radius: 6px;
+    color:dimgray;
+    margin-top:2px;
+    margin-bottom: 8px;
 }
