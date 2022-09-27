@@ -17,7 +17,7 @@ export default function Results(props) {
           );
         })}
         </section>
-        <p>
+       
         {props.results.meanings.map(function (meaning, index) {
           return (
             <section key={index}>
@@ -25,7 +25,6 @@ export default function Results(props) {
             </section>
           );
         })}
-        </p>
       </div>
     );
   } else {
