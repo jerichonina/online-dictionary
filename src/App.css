@@ -1,9 +1,10 @@
 .App-header {
-  margin: 15px 0;
+  margin-bottom: -20px;
+  margin-top:-12px;
 }
 
 .App-logo {
-  max-width: 80px;
+  max-width: 350px;
   display:block;
   margin:0 auto;
 }
